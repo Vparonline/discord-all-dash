@@ -1,2 +1,2 @@
 # discord-all-dash
-Discord'da sözde dashboard kullanan herkesin altyapıları :*
+Gördüğümü paylaşırım kanka hani bilginiz olsun zevke takılıyor olucam
